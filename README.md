@@ -1,7 +1,4 @@
 # 4 Servo Motors Arduino Project
-
-## Description
-
 This project demonstrates controlling **four micro servo motors** using an **Arduino Uno** in Tinkercad simulation.
 
 The servo motors perform the following actions:
