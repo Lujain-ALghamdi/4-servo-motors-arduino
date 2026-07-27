@@ -38,4 +38,4 @@ During the simulation:
 - Then all motors rotate to 90 degrees and remain fixed.
 
 ### Circuit Diagram
-<img width="2878" height="1652" alt="لقطة شاشة 2026-07-17 104440" src="https://github.com/user-attachments/assets/21206797-a829-4a8e-92ec-2e87d3db5b58" />
+https://github.com/user-attachments/assets/f1c73ffc-7340-401e-9dac-2db548fd13e2
