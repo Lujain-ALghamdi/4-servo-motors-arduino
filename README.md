@@ -38,5 +38,5 @@ During the simulation:
 - Then all motors rotate to 90 degrees and remain fixed.
 
 ### Circuit Diagram
-
+https://www.tinkercad.com/things/2o87MSfP03V-lujain-servo?sharecode=QrAPJa_XS2JmUrW7Btm1s7A1xJyB_JzPmoWKVRIXiL4
 <img width="2878" height="1652" alt="لقطة شاشة 2026-07-17 104440" src="https://github.com/user-attachments/assets/21206797-a829-4a8e-92ec-2e87d3db5b58" />
